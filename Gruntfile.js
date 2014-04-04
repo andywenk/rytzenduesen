@@ -12,7 +12,7 @@ module.exports = function (grunt) {
                 input: "./",
                 title: "Der Rytzendüsn vom Planeten Moklogg",
                 description: "Flug mit der Lichtrakete zur Erde",
-                github: "GitbookIO/javascript"
+                github: "andywenk/rytzenduesen"
             }
         },
         'gh-pages': {
