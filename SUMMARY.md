@@ -1,3 +1,6 @@
 * [Kapitel 1](kapitel-1/README.md)
     * [Der Rytzendüsn](kapitel-1/der-rytzenduesen.md)
+    * [Wie es auf Mokklog ist](kapitel-1/wie-es-auf-mokklog-ist.md)
     * [Was der Rytzendüsn so macht](kapitel-1/was-der-rytzenduesen-so-macht.md)
+* [Kapitel 2](kapitel-2/README.md)
+    * [In der Lichtraketen Fabrik](kapitel-2/in-der-lichtraketen-fabrik.md)

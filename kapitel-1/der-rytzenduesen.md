@@ -9,4 +9,4 @@ Nicht schlauer wenn man daran denkt, dass sie besser rechnen oder schreiben kön
 
 Einer der dort lebt, hat den Namen Rytzendüsn. Der Name klingt für uns Menschen ganz schön lustig. Aber er ist eigentlich nicht ungewöhnlich auf Moklogg. Da gibt es noch andere die heissen zum Beispiel Dietzenlyt oder Bangenzyl.
 
-In dieser Geschichte geht es also um den Rytzendüsn. Sehen wir mal, was der Rytzendüsn so macht.
+In dieser Geschichte geht es also um den Rytzendüsn. Schauen wir uns mal an, wie Mokklog denn so ist.
